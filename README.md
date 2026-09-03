@@ -27,7 +27,7 @@
 
 ## Tech Stack
 
-- Laravel 12
+- Laravel 13
 - Vue 3
 - Pinia
 - Tailwind CSS
