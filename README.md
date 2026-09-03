@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./assets/unknowns.png" width="100" alt="Unknowns Logo">
+  <img src="./assets/unknowns.png" width="200" alt="Unknowns Logo">
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/unknowns-white.png" width="100" alt="Team Logo">
+  <img src="./assets/unknowns-white.png" width="200" alt="Team Logo">
 </p>
 
 <h1 align="center">Unknowns</h1>
